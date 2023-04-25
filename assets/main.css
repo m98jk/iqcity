@@ -23,6 +23,9 @@ body {
   padding-bottom: 10px;
   display: block;
   width: 500px;
+  -webkit-user-drag: none;
+  user-select: none;
+  -webkit-user-select: none;
 }
 .me {
   position: fixed;
